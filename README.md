@@ -1,2 +1,2 @@
-# Collision
-We  created a collision between two sprite .
+# collisionAlgorithm
+Algorithm to detect collision between two objects
